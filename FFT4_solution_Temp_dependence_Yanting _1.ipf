@@ -1,5 +1,6 @@
 #pragma rtGlobals=1		// Use modern global access method.
 //this is for practice git
+//this is for branch
 Function general_load(filepath, name_base,name_ending,num_of_file,ini,renamew)
          String filepath, name_base,name_ending,renamew
          Variable num_of_file,ini
